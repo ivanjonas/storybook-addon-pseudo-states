@@ -56,7 +56,7 @@ module.exports = {
 
 </details>
 
-In case you have an other project configuration, check out the [Advanced setup](#advanced-settup)
+In case you have an other project configuration, check out the [Advanced setup](#advanced-setup)
 section, to see how to get it working with different settings.
 
 To see what's needed to use the pseudo addon, have a look at the [Usage](#usage) section.
